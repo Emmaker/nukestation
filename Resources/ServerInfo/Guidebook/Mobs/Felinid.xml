@@ -1,0 +1,10 @@
+<Document>
+  # Felinids
+
+  <Box>
+    <GuideEntityEmbed Entity="MobFelinid" Caption=""/>
+  </Box>
+
+  Felinids take [color=#1e90ff]20% less Cold damage, and 20% less Heat damage[/color]; but [color=#ffa500]15% more Blunt damage, 15% more Slash damage, and 15% more Piercing damage[/color].
+
+</Document>
