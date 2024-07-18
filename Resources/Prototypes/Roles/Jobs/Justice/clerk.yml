@@ -17,7 +17,6 @@
     shoes: ClothingShoesBootsLaceup
     id: ClerkPDA
     ears: ClothingHeadsetSecurity
-    # TODO add copy of space law
-  #storage:
-    #back:
-    #- Stuff
+  storage:
+    back:
+    - BookSpaceLaw

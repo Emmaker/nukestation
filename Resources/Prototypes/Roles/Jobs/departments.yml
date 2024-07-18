@@ -2,7 +2,7 @@
   id: Cargo
   description: department-Cargo-description
   color: "#A46106"
-  weight: 10
+  weight: 70
   roles:
   - CargoTechnician
   - Quartermaster
@@ -12,7 +12,7 @@
   id: Civilian
   description: department-Civilian-description
   color: "#9FED58"
-  weight: -10
+  weight: 0
   roles:
   - Boxer
   - Chaplain
@@ -27,7 +27,7 @@
 - type: department
   id: Command
   description: department-Command-description
-  color: "#334E6D"
+  color: "#225226"
   weight: 100
   roles:
   - Captain
@@ -38,13 +38,13 @@
   - HeadOfSecurity
   - ResearchDirector
   - Quartermaster
-  - Judge
   primary: false
 
 - type: department
   id: Engineering
   description: department-Engineering-description
   color: "#EFB341"
+  weight: 80
   roles:
   - AtmosphericTechnician
   - ChiefEngineer
@@ -55,6 +55,7 @@
   id: Medical
   description: department-Medical-description
   color: "#52B4E9"
+  weight: 60
   roles:
   - Chemist
   - ChiefMedicalOfficer
@@ -67,7 +68,7 @@
   id: Security
   description: department-Security-description
   color: "#DE3A3A"
-  weight: 20
+  weight: 90
   roles:
   - HeadOfSecurity
   - SecurityCadet
@@ -79,6 +80,7 @@
   id: Science
   description: department-Science-description
   color: "#D381C9"
+  weight: 40
   roles:
   - ResearchDirector
   - Scientist
@@ -89,7 +91,7 @@
   id: Personnel
   description: department-Personnel-description
   color: "#9FED58"
-  weight: 0
+  weight: 50
   roles:
   - HeadOfPersonnel
   - Reporter
@@ -102,7 +104,8 @@
 - type: department
   id: Justice
   description: department-Justice-description
-  color: "#191919"
+  color: "#334E6D"
+  weight: 30
   roles:
   - Judge
   - Lawyer

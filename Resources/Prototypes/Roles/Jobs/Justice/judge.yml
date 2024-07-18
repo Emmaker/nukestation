@@ -25,7 +25,7 @@
     shoes: ClothingShoesBootsLaceup
     id: JudgePDA
     ears: ClothingHeadsetSecurity
-    # TODO add copy of space law
   storage:
     back:
     - RubberStampJudge
+    - BookSpaceLaw
