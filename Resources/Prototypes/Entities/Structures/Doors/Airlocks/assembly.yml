@@ -259,7 +259,7 @@
   suffix: CentralCommand
   components:
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Standard/command.rsi
+    sprite: Structures/Doors/Airlocks/Standard/centcomm.rsi
     state: "assembly"
 
 - type: entity
@@ -268,7 +268,7 @@
   suffix: CentralCommand, Glass
   components:
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Glass/command.rsi
+    sprite: Structures/Doors/Airlocks/Glass/centcomm.rsi
     state: "assembly"
 
 #Mining
