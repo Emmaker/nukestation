@@ -166,13 +166,7 @@
       "name": "scrap_bloodied"
     },
     {
-      "name": "paper_stamp-cap"
-    },
-    {
       "name": "paper_stamp-ce"
-    },
-    {
-      "name": "paper_stamp-centcom"
     },
     {
       "name": "paper_stamp-chaplain"
@@ -187,13 +181,13 @@
       "name": "paper_stamp-cmo"
     },
     {
+      "name": "paper_stamp-command"
+    },
+    {
       "name": "paper_stamp-deny"
     },
     {
       "name": "paper_stamp-detective"
-    },
-    {
-      "name": "paper_stamp-hop"
     },
     {
       "name": "paper_stamp-hos"

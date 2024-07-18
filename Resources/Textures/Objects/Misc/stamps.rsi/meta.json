@@ -8,13 +8,7 @@
     },
     "states": [
         {
-            "name": "stamp-cap"
-        },
-        {
             "name": "stamp-ce"
-        },
-        {
-            "name": "stamp-centcom"
         },
         {
             "name": "stamp-chaplain"
@@ -29,13 +23,13 @@
             "name": "stamp-cmo"
         },
         {
+            "name": "stamp-command"
+        },
+        {
             "name": "stamp-deny"
         },
         {
             "name": "stamp-detective"
-        },
-        {
-            "name": "stamp-hop"
         },
         {
             "name": "stamp-hos"
